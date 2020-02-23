@@ -4,7 +4,7 @@
 The version of the project showcased here is an abstract version of the real product but highlights the origin and thought process of the product.
 
 <b> IPR 
-This project has been presented at multiple platforms and has been endorsed by various govenment and private estblishments like IET On Campus - VIT and VIT-TBI (Department of Science and Technology, Govt. of India). The product is protected by IPR laws.
+This project has been presented at multiple platforms and has been endorsed by IET On Campus - VIT. The product is protected by IPR laws.
 The purpose of this repository is to help readers gain technical insights over various domains of technology that intersected here and NOT to be considered as free for development at personal level.
 </b>
 
